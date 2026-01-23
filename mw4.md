@@ -1,6 +1,7 @@
-# Сервис mw4.ru
+alpha: true
 
-Распространение и продажа моих программ 1
+## <(￣︶￣)> Сервис лицензий для моих программ.
+
 
 !!! info "Information:"
     Something **new** is coming to `mkdocs-shadcn`
