@@ -1,0 +1,14 @@
+site_name: My Docs
+site_url: https://mc92mc.github.io/max40in_mkdocs/
+nav:
+  - Главная: index.md
+  - Сервисы:
+    - MW4: mw4.md
+    - About 1: about.md
+theme:
+  name: shadcn
+markdown_extensions:
+  - "admonition"
+plugins:
+  - search
+  - excalidraw
