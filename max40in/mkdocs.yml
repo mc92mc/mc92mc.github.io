@@ -1,9 +1,9 @@
 site_name: max40in
 site_url: https://mc92mc.github.io/
 nav:
-  - Главная: index.md
+  - 🏡Главная: index.md
   - Сервисы:
-    - MW4: mw4.md
+    - 🔑MW4: mw4.md
     - About 1: about.md
 theme:
   name: shadcn
