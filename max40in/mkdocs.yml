@@ -1,5 +1,5 @@
-site_name: My Docs
-site_url: https://mc92mc.github.io/max40in_mkdocs/
+site_name: max40in
+site_url: https://mc92mc.github.io/
 nav:
   - Главная: index.md
   - Сервисы:
