@@ -15,8 +15,8 @@
 
 ### Я использую:
 
-- [n8n.max40in.ru](https://n8n.max40in.ru) — автоматизация (n8n).
-- [crm.max40in.ru](https://crm.max40in.ru) — CRM (odoo).
+- [**n8n.max40in.ru**](https://n8n.max40in.ru) — автоматизация (n8n).
+- [**crm.max40in.ru**](https://crm.max40in.ru) — CRM (odoo).
 
 ### Друзья:
 
