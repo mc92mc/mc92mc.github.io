@@ -1,5 +1,6 @@
 site_name: max40in
 site_url: https://mc92mc.github.io/
+repo_url: https://github.com/mc92mc/mc92mc.github.io
 nav:
   - 🏡Главная: index.md
   - Сервисы:
