@@ -1,4 +1,4 @@
-site_name: max40in
+site_name: MAX40IN
 site_url: https://mc92mc.github.io/
 repo_url: https://github.com/mc92mc/mc92mc.github.io
 nav:
@@ -8,8 +8,52 @@ nav:
     - About 1: about.md
 theme:
   name: shadcn
+  show_title: true
+  show_stargazers: false
+  icon: svg-spinners:clock
+  topbar_sections: false
+  show_datetime: false
+  katex_options:
+    displayMode: true
+    macros:
+      "\\RR": "\\mathbb{R}"
+      "\\dx": "\\mathrm{d}x"
 markdown_extensions:
-  - "admonition"
+  - admonition
+ # - pymdownx.arithmatex
+  - pymdownx.b64
+  - pymdownx.betterem
+  - pymdownx.blocks.admonition
+  - pymdownx.blocks.definition
+  - pymdownx.blocks.details
+  - pymdownx.blocks.html
+  - pymdownx.blocks.tab
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.escapeall
+  - pymdownx.extra
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.pathconverter
+  - pymdownx.progressbar
+  - pymdownx.saneheaders
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.striphtml
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - pymdownx.tilde
 plugins:
   - search
-  - excalidraw
+  - link-marker:
+      enable_external_link: true
+      icon_external_link: ⧉ # ⧉
+      enable_mail: true
+      icon_mail: ✉
+  - open-in-new-tab
