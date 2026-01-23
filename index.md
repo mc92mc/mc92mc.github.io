@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Приветствую 🖐️
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Справочная информация о мой работе.
 
-## Commands 13
+## Сервисы
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[MW4.RU](https://MW4.RU) - сервис лицензий для моих программ.
 
-## Project layout
+## Программы
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- xShot - ПКМ при изменении пикселей.
+- adTalker - нажатие клавиш в неактивных окнах.
