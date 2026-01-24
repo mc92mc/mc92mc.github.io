@@ -1,63 +1,46 @@
-# Longam quam iners fidissime
+## (⌒_⌒;) ==Пишу на Python==
 
-## Habet Iason vis vagata
+Python изучал при написании реальных проектов с помощью книг.
 
-Lorem markdownum optas `smartSupercomputerAscii`. Pro forti flectant, non et
-monimenta leones `p_leaf_wysiwyg` et cruoris Berecyntius.
+### 🐍Python литература
 
-    if (bus == prompt_osi_runtime * -2) {
-        lamp(tClass.riscDefault(constant_nic, 4), analyst.macintosh_mcp(17),
-                codeHdv - platform_point_download);
-    } else {
-        usernameTroll(pack, radcab_nic_login + iosHard);
-    }
-    search_boot_pim = directZone;
-    definition_file += storage;
-    bookmarkUrlFile *= webmailJreCard;
-    vga_iphone_mnemonic.page_petaflops_print(-3 + data + 570612, batch_stick);
+- Начинаем программировать на Python. 5-е изд. | Гэддис Тони
+- Простой Python. Современный стиль программирования. 2-е издание. Билл Любанович
+- Паттерны разработки на Python: TDD, DDD и событийно-ориентированная архитектура
+- Чистый Python. Тонкости программирования для профи | Бейдер Дэн
+- Высокопроизводительные Python-приложения. Практическое руководство по эффективному программированию
+- Надежный Python
+- Python на практике
+- DJANGO 4 в примерах | Меле Антонио
+- Секреты Python Pro | Дейн Хиллард
+- Python. Чистый код для продолжающих
+- Искусство чистого кода | Майер Кристиан
 
-## Audax toro seque vulnera
+### 👨🏻‍💻Computer Science книги
 
-Adspexit tenui `leaf` aut, quoque ab illo secum aspexit dona perque nec figuris.
-Turis est lustrat; fit in signa duo Nereius forem toro comitem poma illi nomine
-iners quaerunt.
+- SQL: быстрое погружение / книги по программированию | Шилдс Уолтер
+- System Design. Подготовка к сложному интервью | Сюй Алекс
+- Чистый код: создание, анализ и рефакторинг / книги по программированию | Мартин Роберт
+- Чистая архитектура. Искусство разработки программного обеспечения | Мартин Роберт
+- Грокаем алгоритмы | Бхаргава Адитья
+- Гид по Computer Science для каждого программиста
+- Head First. Архитектура ПО
+- PostgreSQL. Основы языка SQL
 
-    var clean_animated = websiteArchiveHdmi(latencyRupClick + modifier, 4,
-            guidRefresh(access, logicMulticastingBotnet - inputCdn));
-    var unit = jpeg + 4;
-    if (wais >= dongle_gigo_scraping) {
-        friend += 62;
-    } else {
-        optical_bare = oemFile - internic;
-    }
+> Есть еще книги, но ввиду их бесполезности, я их не буду упоминать.
 
-## Convicia plangi metuam
+### 📚Ждут своего часа :)
 
-Ille increscere *meos tam caelestibus* scelerata maestae velamina iactarique in
-Romethiumque nec guttura illi. Ira *post* aequa colorem, virides consonus. Quos
-cum post quicquid, deponere coniugis id copia exemplum proles tectis. Est neque
-[molem](#longam-quam-iners-fidissime), Io quid, vulnere trunco variat
-`cpm_led_unicode` vitta! Non tamen adulterium [quique amens
-et](#victore-postulat-relictis) ille remittit artificem ad telum capillos
-circumdata spem **non vulnus**?
-
-> Caeli intellege geminis laetior nulloque vestra ut [aetas
-> libido](#audax-toro-seque-vulnera); lux tum incepto erat leve sola nomen!
-> Precatur est tenuit rarissima pendeat electarumque nihil internodia mota: et
-> latebris umbra fretumque orbem, Herculis esse, non. Si vel nati amantes grata
-> Exadius gratior.
-
-## Victore postulat relictis
-
-Si sic et omnibus liquerunt conpositas verba humus Cephisius verba conviciaque
-pars Parrhasio, et rapidi tanget. Par undis animi vera Althaea flet Stygio **in
-ipsum inmunemque** illic. Facto dixit inductaque propago, hoc mortis iunctus, at
-facundum silentum, medios aevi! Hoc et pectora nativum sagittas pectora et fugit
-sunt inque poenas negat, et pectus: visa.
-
-Minorque exierat Phineus locum, non timorem mater celeremque si nescio; nec ubi,
-obscenae. Non meae in **agitati** Aetnam Haemoniis se spumeus avidisque limine
-fortissime matutinis confessam huius, mater ad, in. Omnes ingentique decuit
-agmina re [arserunt iaculum quodque](#audax-toro-seque-vulnera) possent. Nisi
-vaga refert Stygia Iapygis Aonios bibulaque umeroque sole radiantis. Lactentem
-albus dum [adspiciens patria](#habet-iason-vis-vagata).
+- Профессиональный TypeScript. Разработка масштабируемых JavaScript-приложений
+- Тайная жизнь программ. Как создать код, который понравится вашему компьютеру
+- Python для хакеров. Нетривиальные задачи и проекты
+- Высоконагруженные приложения. Программирование, масштабирование, поддержка
+- Грокаем Continuous Delivery
+- Грокаем глубокое обучение
+- Грокаем конкурентность
+- Изучаем программирование на JavaScript
+- Непрерывное развитие API. Правильные решения в изменчивом технологическом ландшафте, 2-е изд.
+- 100 ошибок Go и как их избежать
+- Go: идиомы и паттерны проектирования, 2-е изд.
+- Грокаем функциональное мышление
+- Принципы, паттерны и методологии разработки программного обеспечения
