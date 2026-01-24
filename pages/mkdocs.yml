@@ -1,11 +1,11 @@
 site_name: MAX40IN
 site_url: https://mc92mc.github.io/
-repo_url: https://github.com/mc92mc/mc92mc.github.io
+repo_url: https://github.com/mc92mc
 nav:
   - 🏡Главная: index.md
   - Сервисы:
     - 🔑MW4: mw4.md
-    - About 1: about.md
+  - 🙋‍♂️О себе: about.md
 theme:
   name: shadcn
   show_title: true
