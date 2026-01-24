@@ -1,6 +1,6 @@
 ## ദ്ദി(˵ •̀ ᴗ - ˵ ) ==Привет!==
 
-### Мои сервисы
+### 🌐Мои сервисы
 
 - [MW4.RU](https://MW4.RU) — сервис лицензий для моих программ.
 - **ReputationDiscordBot** — бот репутации для Discord.
@@ -8,7 +8,7 @@
 - [remotehub pwa](https://anywhereprint.ru) — web интерфейс для `remotehub server`
 - db-sync + django — Синхронизация GoogleSheets и PostgreSQL + сайт для отображения данных.
 
-### Мои программы
+### 👨‍💻Мои программы
 
 - **xShot** — ЛКМ при изменении пикселей в заданной области.
 - **keySpammer** — отправка нажатий клавиш при их удержании.
@@ -17,15 +17,15 @@
 - **sc AuctionHelper** — помощник для аукциона для игы STALCRAFT.
 - **remotehub agent** — клиент для `remotehub server`
 
-### Библиотеки
+### 🧩Библиотеки
 
 - [adaptyper](https://pypi.org/project/adaptyper/) — конвертация типов данных.
 
-### Я использую
+### 👉Я использую
 
 - [n8n.max40in.ru](https://n8n.max40in.ru) — автоматизация (n8n).
 - [crm.max40in.ru](https://crm.max40in.ru) — CRM (odoo).
 
-### Друзья
+### 🤝Друзья
 
 - [Beget - хостинг провайдер (VPS)](https://beget.com/p1451243)
