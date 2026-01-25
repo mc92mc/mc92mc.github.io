@@ -29,3 +29,4 @@
 ### 🤝Друзья
 
 - [Beget - хостинг провайдер (VPS)](https://beget.com/p1451243)
+- [LLM агрегатор - более 400 моделей](https://polza.ai?referral=CLQuGgUe9Y)
