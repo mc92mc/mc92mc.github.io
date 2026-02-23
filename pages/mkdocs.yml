@@ -10,7 +10,7 @@ theme:
   name: shadcn
   show_title: true
   show_stargazers: false
-  icon: svg-spinners:clock
+  icon: img\clock.svg
   topbar_sections: false
   show_datetime: false
   katex_options:
